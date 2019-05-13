@@ -1,5 +1,5 @@
 /*
-** EPITECH PROJECT, 2019
+** ARTHUR MASSANES PROJECT, 2019
 **  snake
 ** File description:
 ** main func calling snake
