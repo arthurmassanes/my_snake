@@ -1,2 +1,2 @@
 # my_snake
-Snake Game created in one day
+Snake Game in C programmed in one day using the ncurses library.
